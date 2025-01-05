@@ -1,0 +1,1 @@
+This repository demonstrates a potential `NumberFormatException` in a Kotlin function and its solution. The `processData` function attempts to parse comma-separated integers. If the input string cannot be parsed into integers, a `NumberFormatException` can be thrown.  The solution implements more robust error handling.
